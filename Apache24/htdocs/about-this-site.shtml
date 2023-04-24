@@ -1,0 +1,59 @@
+<!--#set var="titulo" value="Acerca de este sitio" -->
+<!--#include virtual="header.shtml" -->
+
+<div class="full-width-container">
+  <h3>Acerca de este sitio</h3>
+</div>
+
+<div class="main-container">
+  <div class="adaptative-container">
+    <p>
+      Este sitio fue creado para el curso
+      <b>CI-0137 - Desarrollo de Aplicaciones Web</b> impartido por el profesor
+      <b>Braulio José Solano Rojas</b> durante el primer ciclo lectivo del año
+      2023, con los objetivos de:
+    </p>
+
+    <ul class="list-unstyled">
+      <li>
+        Comprender los fundamentos del desarrollo de sitios web estáticos.
+      </li>
+      <li>
+        Introducir en las aptitudes básicas el uso de (X)HTML 5, CSS y
+        Javascript.
+      </li>
+      <li>Realizar un sitio web adaptativo básico.</li>
+      <li>Reconocer las dificultades de la generación de contenido.</li>
+      <li>Reconocer las dificultades del diseño gráfico.</li>
+    </ul>
+
+    <p>Este sitio busca tener la siguiente estructura:</p>
+    <img
+      src="images/Estructura.jpg"
+      alt="Estructura del sitio"
+      class="bordered-image"
+    />
+    <p>
+      <br />
+      La mayoria de las fotos son propias, sin embargo, la que fue utilizada
+      como fondo de página fue obtenida de
+      <a href="https://www.freeimages.com/">www.freeimages.com</a>, para su
+      descarga puede dirigirse a
+      <a href="https://www.freeimages.com/download/computer-circuit-1157159"
+        >https://www.freeimages.com/download/computer-circuit-1157159</a
+      >
+    </p>
+    <p>
+      Además, la imagen representando un correo utilizada en la página de
+      <b>Contácteme</b> fue obtenida de
+      <a href="https://pixabay.com/es/">pixabay.com</a>, para su descarga puede
+      dirigirse a
+      <a
+        href="https://pixabay.com/es/illustrations/correo-mensaje-email-enviar-mensaje-1454731/"
+        >https://pixabay.com/es/illustrations/correo-mensaje-email-enviar-mensaje-1454731/</a
+      >
+    </p>
+  </div>
+</div>
+
+<!--#include virtual="footer.shtml" -->

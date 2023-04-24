@@ -1,0 +1,48 @@
+<!--#set var="titulo" value="Inicio" -->
+<!--#include virtual="header.shtml" -->
+
+<div class="full-width-container">
+  <h3>Sobre mi</h3>
+</div>
+
+<div class="main-container">
+  <div class="adaptative-container">
+    <p>Mi nombre es Gabriel Zúñiga Orozco.</p>
+    <img
+      src="images/Gabriel-Zuniga.jpg"
+      alt="Foto de mi"
+      class="bordered-image"
+    />
+  </div>
+
+  <div class="adaptative-container">
+    <p>
+      Me gradué del
+      <b>Colegio técnico profesional Abelardo Bonilla Baldares</b> en el año
+      2015:
+    </p>
+    <img
+      src="images/Cole.jpg"
+      alt="Foto de graduación"
+      class="bordered-image"
+    />
+  </div>
+
+  <div class="adaptative-container">
+    <p>
+      En dicho colegio técnico tomé la especialidad de
+      <b>Desarrollo de Software</b>, dado que desde niño me atraía la
+      tecnología, sin embargo, después de terminarlo aún no había decidido a
+      cuál universidad ir, ni qué carrera estudiar, incluso en el área de la
+      computación habían muchas opciones en muchas distintas universidades, por
+      lo que primero completé un curso de inglés, seguido por un curso de redes
+      Cisco, y entre clases también obtuve un carnet de manipulación de
+      alimentos, pues me gustaba la idea de tener tantas opciones como fuera
+      posible estudiando distintas áreas, hasta que en el año 2019 finalmente
+      entré a la universidad, a la carrera de computación en la
+      <b>Universidad de Costa Rica</b>.
+    </p>
+  </div>
+</div>
+
+<!--#include virtual="footer.shtml" -->

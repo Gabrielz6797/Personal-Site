@@ -1,0 +1,77 @@
+<!--#set var="titulo" value="Cursos preferidos" -->
+<!--#include virtual="header.shtml" -->
+
+<div class="full-width-container">
+  <h3>Cursos preferidos</h3>
+</div>
+
+<div class="main-container">
+  <div class="adaptative-container">
+    <p>
+      Si bien fueron entre los cursos más difíciles de la carrera, mis cursos
+      preferidos son sin duda
+      <b>CI-0117 - Programación Paralela y Concurrente</b> y
+      <b
+        >CI-0128 - Proyecto Integrador de Ingeniería de Software y Bases de
+        Datos</b
+      >, ya que son los cursos en donde he creado las mejores aplicaciones en
+      las que he trabajado.
+    </p>
+    <p>
+      En <b>Programación Paralela y Concurrente</b>, junto a otros dos
+      estudiantes, creé mi primera aplicación web, un programa con interfaz
+      simple que calculaba las llamadas <b>sumas de Goldbach</b>.
+    </p>
+    <img
+      src="images/Goldbach-homepage.jpeg"
+      alt="Foto de calculadora de Goldbach"
+      class="bordered-image"
+    />
+  </div>
+
+  <div class="adaptative-container">
+    <p>
+      Al introducir números la calculadora realizaba las operaciones pertinentes
+      para obtener todas las posibles combinaciones de números primos que
+      resultaban en el número dado:
+    </p>
+    <img
+      src="images/Goldbach-resultado.jpeg"
+      alt="Foto de resultados de calculadora de Goldbach"
+      class="bordered-image"
+    />
+  </div>
+
+  <div class="adaptative-container">
+    <p>
+      Por el lado del
+      <b>Proyecto Integrador de Ingeniería de Software y Bases de Datos</b>
+      trabajé en una aplicación de automatización de pago de planilla, entre las
+      dificultades encontradas en ese proyecto se pueden mencionar la necesidad
+      de utilizar lenguajes de programación que nunca había utilizado,
+      <b>C#</b> y <b>Javascript</b>, junto a un framework que hasta ese momento
+      no había escuchado, <b>React</b>, y aparte de esto, también fue complicado
+      entender la funcionalidad que se le debía dar a la aplicación como tal,
+      pues una "planilla" era algo que nunca había visto por mi mismo, mucho
+      menos utilizado, sin embargo, después de varias noches sin dormir, mi
+      equipo logró algo con lo que nos sentimos satisfechos.
+    </p>
+    <img
+      src="images/Ta-Bueno.png"
+      alt="Foto de resultados de calculadora de Goldbach"
+      class="bordered-image"
+    />
+  </div>
+
+  <div class="adaptative-container">
+    <p>
+      Adicionalmente puedo mencionar el curso
+      <b>CI-0129 - Inteligencia Artificial</b>, y fuera de los cursos de la
+      carrera, el curso artístico que tomé,
+      <b>EG0321 - Taller de Caricatura</b>, sin embargo de estos hablo un poco
+      más en la sección de pasatiempos.
+    </p>
+  </div>
+</div>
+
+<!--#include virtual="footer.shtml" -->

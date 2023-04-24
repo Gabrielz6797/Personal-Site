@@ -1,0 +1,11 @@
+  <footer class="footer">
+    <!-- Copyright -->
+    <div class="footer-container">
+      © 2023 Copyright: Gabriel Zúñiga Orozco. Carnet B98755.
+      <br>
+      Hospedado en <i><!--#echo var="server_name"--></i> utilizando <i><!--#echo var="server_software"--></i>
+    </div>
+  </footer>
+  <script src="js/bootstrap.bundle.min.js"></script>
+  </body>
+</html>

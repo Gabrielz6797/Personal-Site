@@ -1,0 +1,72 @@
+<!--#set var="titulo" value="Descargas" -->
+<!--#include virtual="header.shtml" -->
+
+<div class="full-width-container">
+  <h3>Descargas</h3>
+</div>
+
+<div class="main-container">
+  <div class="adaptative-container">
+    <h4>Repositorios</h4>
+    <p>
+      En esta sección puede descargar los repositorios de los proyectos
+      mencionados en las otras páginas del sitio:
+    </p>
+    <p>
+      Sumas de Golbach:<br />
+      Enlace para visualización de repositorio (bajo el nombre "Project01"):<br />
+      <a
+        href="https://git.ucr.ac.cr/los-concurrentes/concurrente21a-andres-javier-gabriel/-/tree/master/"
+        >https://git.ucr.ac.cr/los-concurrentes/concurrente21a-andres-javier-gabriel/-/tree/master/</a
+      ><br />
+      Enlace para clonar el repositorio:<br />
+      <i
+        >https://git.ucr.ac.cr/los-concurrentes/concurrente21a-andres-javier-gabriel.git</i
+      >
+    </p>
+    <p>
+      Pago de Planilla Ta'Bueno:<br />
+      Enlace para visualización de repositorio:<br />
+      <a href="https://github.com/Gabrielz6797/pi_ingeBases"
+        >https://github.com/Gabrielz6797/pi_ingeBases</a
+      ><br />
+      Enlace para clonar el repositorio:<br />
+      <i>https://github.com/Gabrielz6797/pi_ingeBases.git</i>
+    </p>
+  </div>
+
+  <div class="adaptative-container">
+    <h4>Imágenes</h4>
+    <p>
+      En esta sección puede descargar algunas de las imágenes utilizadas en las
+      otras páginas del sitio:
+    </p>
+    <p>
+      <a href="images/Cole.jpg" download>Foto de graduación del colegio</a
+      ><br />
+      <a href="images/Intro-compu.jpg" download
+        >Foto de curso de Introducción a la Computación</a
+      ><br />
+      <a href="images/Goldbach-homepage.jpeg" download
+        >Página de inicio de calculadora de Goldbach</a
+      ><br />
+      <a href="images/Ta-Bueno.png" download
+        >Página de dashboard de Pago de Planilla Ta'Bueno</a
+      ><br />
+      <a href="images/Procesador.jpg" download
+        >Foto de procesador de computadora vieja</a
+      ><br />
+      <a href="images/Dibujo-original.jpg" download
+        >Dibujo original del curso de caricatura</a
+      ><br />
+      <a href="images/Dibujo-coloreado.jpg" download
+        >Dibujo coloreado del curso de caricatura</a
+      ><br />
+      <a href="images/Motherboard.jpg" download
+        >Tarjeta madre (Imagen de fondo del sitio)</a
+      ><br />
+    </p>
+  </div>
+</div>
+
+<!--#include virtual="footer.shtml" -->

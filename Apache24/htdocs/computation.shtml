@@ -1,0 +1,21 @@
+<!--#set var="titulo" value="Computación" -->
+<!--#include virtual="header.shtml" -->
+
+<div class="full-width-container">
+  <h3>Computación</h3>
+</div>
+
+<div class="main-container">
+  <div class="adaptative-container">
+    <p>
+      Actualmente me encuentro cursando el programa de
+      <b
+        >Bachillerato en Computación con varios énfasis (código de carrera
+        420705)</b
+      >, en el énfasis de <b>Ingeniería de Software</b>.
+    </p>
+    <img src="images/ECCI.png" alt="Logo ECCI" class="bordered-image" />
+  </div>
+</div>
+
+<!--#include virtual="footer.shtml" -->

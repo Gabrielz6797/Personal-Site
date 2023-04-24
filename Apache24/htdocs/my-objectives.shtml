@@ -1,0 +1,23 @@
+<!--#set var="titulo" value="Mis objetivos" -->
+<!--#include virtual="header.shtml" -->
+
+<div class="full-width-container">
+  <h3>Mis objetivos</h3>
+</div>
+
+<div class="main-container">
+  <div class="adaptative-container">
+    <p>Mis objetivos actuales son simples:</p>
+    <ul class="list-unstyled">
+      <li>Graduarme de la universidad.</li>
+      <li>Conseguir un buen trabajo.</li>
+      <li>Aprender un tercer idioma.</li>
+    </ul>
+    <p>
+      Más allá de eso simplemente deseo continuar mi estilo de vida actual,
+      incluso si algunas personas me han dicho que me falta ambición.
+    </p>
+  </div>
+</div>
+
+<!--#include virtual="footer.shtml" -->

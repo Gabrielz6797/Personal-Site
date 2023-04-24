@@ -1,0 +1,29 @@
+<!--#set var="titulo" value="Contácteme" -->
+<!--#include virtual="header.shtml" -->
+
+<div class="full-width-container">
+  <h3>Contácteme</h3>
+</div>
+
+<div class="main-container">
+  <div class="adaptative-container">
+    <br />
+    <img
+      src="images/Correo.png"
+      alt="Icono de correo"
+      class="bordered-image"
+      width="200"
+    />
+    <p>
+      <br />
+      Para ponerse en contacto con migo puede enviar un mensaje a mi dirección
+      de correo institucional de la <b>Universidad de Costa Rica</b>:
+      <br />
+      <a href="mailto: gabriel.zunigaorozco@ucr.ac.cr"
+        >gabriel.zunigaorozco@ucr.ac.cr</a
+      >
+    </p>
+  </div>
+</div>
+
+<!--#include virtual="footer.shtml" -->

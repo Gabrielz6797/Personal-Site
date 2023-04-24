@@ -1,0 +1,76 @@
+@import "../../node/node_modules/bootstrap/scss/bootstrap.scss";
+
+body {
+    background-image: url('../images/Motherboard.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.footer-at-bottom {
+    @extend .d-flex;
+    @extend .flex-column;
+    @extend .min-vh-100;
+}
+
+.dark-navbar {
+    @extend .navbar;
+    @extend .navbar-expand-lg;
+    @extend .bg-dark;
+    @extend .bg-body-tertiary;
+}
+
+.navbar-item-list {
+    @extend .navbar-nav;
+    @extend .me-auto;
+    @extend .mb-auto;
+    @extend .mb-lg-auto;
+}
+
+.dark-centered-white-text {
+    @extend .bg-dark;
+    @extend .text-white;
+    @extend .text-center;
+    @extend .p-3;
+}
+
+.full-width-container {
+    @include make-container();
+    @extend .container-fluid;
+    @extend .dark-centered-white-text;
+}
+
+.adaptative-container {
+    @include make-container();
+    @extend .container;
+    @extend .dark-centered-white-text;
+}
+
+.main-container {
+    @extend .d-grid;
+    @extend .gap-3;
+    @extend .my-3;
+    @extend .px-sm-0;
+    @extend .px-md-5;
+    @extend .px-lg-5;
+    @extend .px-xl-5;
+    @extend .px-xxl-5;
+}
+
+.bordered-image {
+    @extend .img-fluid;
+    @extend .img-thumbnail;
+    background-color: #2b3035;
+}
+
+.footer {
+    @extend .bg-dark;
+    @extend .text-white;
+    @extend .text-center;
+    @extend .mt-auto;
+}
+
+.footer-container {
+    @extend .p-3;
+    background-color: #2b3035;
+}

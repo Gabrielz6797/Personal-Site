@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <base href = "index.shtml" />
+    <title><!--#echo var="titulo"--></title>
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0"
+      charset="utf-8"
+    />
+    <!-- Custom Bootstrap -->
+    <link rel="stylesheet" href="css/styles.css" />
+  </head>
+  <body class="footer-at-bottom">
+    <header>
+      <nav class="dark-navbar" data-bs-theme="dark">
+        <div class="container-fluid">
+          <a class="navbar-brand" href="index.shtml">Sitio personal de Gabriel</a>
+          <button
+            class="navbar-toggler"
+            type="button"
+            data-bs-toggle="collapse"
+            data-bs-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent"
+            aria-expanded="false"
+            aria-label="Toggle navigation"
+          >
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-item-list">
+              <li class="nav-item">
+                <a class="nav-link" href="index.shtml">Inicio</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="my-objectives.shtml">Mis objectivos</a>
+              </li>
+              <li class="nav-item dropdown">
+                <a
+                  class="nav-link dropdown-toggle"
+                  role="button"
+                  data-bs-toggle="dropdown"
+                  aria-expanded="false"
+                >
+                  Carrera
+                </a>
+                <ul class="dropdown-menu">
+                  <li><a class="dropdown-item" href="computation.shtml">Computación</a></li>
+                  <li><hr class="dropdown-divider" /></li>
+                  <li><a class="dropdown-item" href="why-computation.shtml">Por qué computación</a></li>
+                  <li><a class="dropdown-item" href="favorite-courses.shtml">Cursos preferidos</a></li>
+                  <li><a class="dropdown-item" href="professors-and-classmates.shtml">Mis profesores y compañeros</a></li>
+                  <li><a class="dropdown-item" href="downloads.shtml">Descargas</a></li>
+                </ul>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="hobbies.shtml">Pasatiempos</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="about-this-site.shtml">Acerca de este sitio</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="contact-me.shtml">Contácteme</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+    </header>
+    

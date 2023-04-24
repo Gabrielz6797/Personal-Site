@@ -1,0 +1,313 @@
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::fd64:f133:c6e8:8149. Set the 'ServerName' directive globally to suppress this message
+[Thu Apr 20 14:46:53.229201 2023] [mpm_winnt:notice] [pid 15684:tid 168] AH00455: Apache/2.4.57 (Win64) configured -- resuming normal operations
+[Thu Apr 20 14:46:53.229201 2023] [mpm_winnt:notice] [pid 15684:tid 168] AH00456: Apache Lounge VS17 Server built: Apr 13 2023 09:42:59
+[Thu Apr 20 14:46:53.229201 2023] [core:notice] [pid 15684:tid 168] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Thu Apr 20 14:46:53.232235 2023] [mpm_winnt:notice] [pid 15684:tid 168] AH00418: Parent: Created child process 11788
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::fd64:f133:c6e8:8149. Set the 'ServerName' directive globally to suppress this message
+Apache server shutdown initiated...
+ly determine the server's fully qualified domain name, using fe80::fd64:f133:c6e8:8149. Set the 'ServerName' directive globally to suppress this message
+[Thu Apr 20 14:46:53.438780 2023] [mpm_winnt:notice] [pid 11788:tid 356] AH00354: Child: Starting 64 worker threads.
+[Thu Apr 20 15:01:46.157521 2023] [mpm_winnt:notice] [pid 15684:tid 168] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Apr 20 15:01:48.173580 2023] [mpm_winnt:notice] [pid 11788:tid 356] AH00364: Child: All worker threads have exited.
+[Thu Apr 20 15:01:48.196907 2023] [mpm_winnt:notice] [pid 15684:tid 168] AH00430: Parent: Child process 11788 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::fd64:f133:c6e8:8149. Set the 'ServerName' directive globally to suppress this message
+[Fri Apr 21 14:56:52.137415 2023] [mpm_winnt:notice] [pid 17708:tid 360] AH00455: Apache/2.4.57 (Win64) configured -- resuming normal operations
+[Fri Apr 21 14:56:52.138431 2023] [mpm_winnt:notice] [pid 17708:tid 360] AH00456: Apache Lounge VS17 Server built: Apr 13 2023 09:42:59
+[Fri Apr 21 14:56:52.138431 2023] [core:notice] [pid 17708:tid 360] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Fri Apr 21 14:56:52.141463 2023] [mpm_winnt:notice] [pid 17708:tid 360] AH00418: Parent: Created child process 21700
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::fd64:f133:c6e8:8149. Set the 'ServerName' directive globally to suppress this message
+Apache server shutdown initiated...
+ly determine the server's fully qualified domain name, using fe80::fd64:f133:c6e8:8149. Set the 'ServerName' directive globally to suppress this message
+[Fri Apr 21 14:56:52.351937 2023] [mpm_winnt:notice] [pid 21700:tid 344] AH00354: Child: Starting 64 worker threads.
+[Fri Apr 21 15:25:05.159651 2023] [mpm_winnt:notice] [pid 17708:tid 360] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Apr 21 15:25:07.181468 2023] [mpm_winnt:notice] [pid 21700:tid 344] AH00364: Child: All worker threads have exited.
+[Fri Apr 21 15:25:07.203318 2023] [mpm_winnt:notice] [pid 17708:tid 360] AH00430: Parent: Child process 21700 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::fd64:f133:c6e8:8149. Set the 'ServerName' directive globally to suppress this message
+[Fri Apr 21 15:25:12.388792 2023] [mpm_winnt:notice] [pid 18488:tid 360] AH00455: Apache/2.4.57 (Win64) configured -- resuming normal operations
+[Fri Apr 21 15:25:12.388792 2023] [mpm_winnt:notice] [pid 18488:tid 360] AH00456: Apache Lounge VS17 Server built: Apr 13 2023 09:42:59
+[Fri Apr 21 15:25:12.388792 2023] [core:notice] [pid 18488:tid 360] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Fri Apr 21 15:25:12.391792 2023] [mpm_winnt:notice] [pid 18488:tid 360] AH00418: Parent: Created child process 7152
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::fd64:f133:c6e8:8149. Set the 'ServerName' directive globally to suppress this message
+Apache server shutdown initiated...
+ly determine the server's fully qualified domain name, using fe80::fd64:f133:c6e8:8149. Set the 'ServerName' directive globally to suppress this message
+[Fri Apr 21 15:25:12.705632 2023] [mpm_winnt:notice] [pid 7152:tid 340] AH00354: Child: Starting 64 worker threads.
+[Fri Apr 21 15:31:07.872844 2023] [include:warn] [pid 7152:tid 1152] [client ::1:56709] AH01374: mod_include: Options +Includes (or IncludesNoExec) wasn't set, INCLUDES filter removed: /index.shtml, referer: http://localhost/
+[Fri Apr 21 15:35:27.352109 2023] [include:warn] [pid 7152:tid 1152] [client ::1:56772] AH01374: mod_include: Options +Includes (or IncludesNoExec) wasn't set, INCLUDES filter removed: /index.shtml, referer: http://localhost/
+[Fri Apr 21 15:35:37.799156 2023] [mpm_winnt:notice] [pid 18488:tid 360] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Apr 21 15:35:39.817294 2023] [mpm_winnt:notice] [pid 7152:tid 340] AH00364: Child: All worker threads have exited.
+[Fri Apr 21 15:35:39.838909 2023] [mpm_winnt:notice] [pid 18488:tid 360] AH00430: Parent: Child process 7152 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::fd64:f133:c6e8:8149. Set the 'ServerName' directive globally to suppress this message
+[Fri Apr 21 15:35:40.959915 2023] [mpm_winnt:notice] [pid 5360:tid 348] AH00455: Apache/2.4.57 (Win64) configured -- resuming normal operations
+[Fri Apr 21 15:35:40.959915 2023] [mpm_winnt:notice] [pid 5360:tid 348] AH00456: Apache Lounge VS17 Server built: Apr 13 2023 09:42:59
+[Fri Apr 21 15:35:40.959915 2023] [core:notice] [pid 5360:tid 348] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Fri Apr 21 15:35:40.963039 2023] [mpm_winnt:notice] [pid 5360:tid 348] AH00418: Parent: Created child process 4104
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::fd64:f133:c6e8:8149. Set the 'ServerName' directive globally to suppress this message
+Apache server shutdown initiated...
+ly determine the server's fully qualified domain name, using fe80::fd64:f133:c6e8:8149. Set the 'ServerName' directive globally to suppress this message
+[Fri Apr 21 15:35:41.169597 2023] [mpm_winnt:notice] [pid 4104:tid 332] AH00354: Child: Starting 64 worker threads.
+[Fri Apr 21 15:35:48.416358 2023] [include:warn] [pid 4104:tid 1148] [client ::1:56773] AH01374: mod_include: Options +Includes (or IncludesNoExec) wasn't set, INCLUDES filter removed: /index.shtml
+[Fri Apr 21 15:35:52.002136 2023] [include:warn] [pid 4104:tid 1144] [client 186.15.155.150:56774] AH01374: mod_include: Options +Includes (or IncludesNoExec) wasn't set, INCLUDES filter removed: /index.shtml
+[Fri Apr 21 15:37:19.862715 2023] [include:warn] [pid 4104:tid 1144] [client 186.15.155.150:56785] AH01374: mod_include: Options +Includes (or IncludesNoExec) wasn't set, INCLUDES filter removed: /index.shtml
+[Fri Apr 21 15:37:21.199800 2023] [include:warn] [pid 4104:tid 1148] [client ::1:56786] AH01374: mod_include: Options +Includes (or IncludesNoExec) wasn't set, INCLUDES filter removed: /index.shtml
+[Fri Apr 21 15:39:53.630021 2023] [include:warn] [pid 4104:tid 1148] [client ::1:56807] AH01374: mod_include: Options +Includes (or IncludesNoExec) wasn't set, INCLUDES filter removed: /index.shtml
+[Fri Apr 21 15:40:30.969879 2023] [include:warn] [pid 4104:tid 1148] [client ::1:56815] AH01374: mod_include: Options +Includes (or IncludesNoExec) wasn't set, INCLUDES filter removed: /index.shtml
+[Fri Apr 21 15:40:32.267019 2023] [include:warn] [pid 4104:tid 1144] [client 186.15.155.150:56816] AH01374: mod_include: Options +Includes (or IncludesNoExec) wasn't set, INCLUDES filter removed: /index.shtml
+[Fri Apr 21 15:40:34.113351 2023] [include:warn] [pid 4104:tid 1148] [client ::1:56815] AH01374: mod_include: Options +Includes (or IncludesNoExec) wasn't set, INCLUDES filter removed: /index.shtml
+[Fri Apr 21 15:41:05.110014 2023] [include:warn] [pid 4104:tid 1148] [client ::1:56820] AH01374: mod_include: Options +Includes (or IncludesNoExec) wasn't set, INCLUDES filter removed: /index.shtml
+[Fri Apr 21 15:41:14.469530 2023] [include:warn] [pid 4104:tid 1148] [client ::1:56822] AH01374: mod_include: Options +Includes (or IncludesNoExec) wasn't set, INCLUDES filter removed: /index.shtml
+[Fri Apr 21 15:41:41.707004 2023] [include:warn] [pid 4104:tid 1148] [client ::1:56824] AH01374: mod_include: Options +Includes (or IncludesNoExec) wasn't set, INCLUDES filter removed: /index.shtml
+[Fri Apr 21 15:41:43.636165 2023] [include:warn] [pid 4104:tid 1148] [client ::1:56824] AH01374: mod_include: Options +Includes (or IncludesNoExec) wasn't set, INCLUDES filter removed: /index.shtml
+[Fri Apr 21 15:41:46.992220 2023] [mpm_winnt:notice] [pid 5360:tid 348] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Apr 21 15:41:50.747195 2023] [mpm_winnt:notice] [pid 4104:tid 332] AH00364: Child: All worker threads have exited.
+[Fri Apr 21 15:41:50.769473 2023] [mpm_winnt:notice] [pid 5360:tid 348] AH00430: Parent: Child process 4104 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::fd64:f133:c6e8:8149. Set the 'ServerName' directive globally to suppress this message
+[Fri Apr 21 15:44:23.826041 2023] [mpm_winnt:notice] [pid 18096:tid 212] AH00455: Apache/2.4.57 (Win64) configured -- resuming normal operations
+[Fri Apr 21 15:44:23.826041 2023] [mpm_winnt:notice] [pid 18096:tid 212] AH00456: Apache Lounge VS17 Server built: Apr 13 2023 09:42:59
+[Fri Apr 21 15:44:23.826041 2023] [core:notice] [pid 18096:tid 212] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Fri Apr 21 15:44:23.830056 2023] [mpm_winnt:notice] [pid 18096:tid 212] AH00418: Parent: Created child process 11164
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::fd64:f133:c6e8:8149. Set the 'ServerName' directive globally to suppress this message
+Apache server shutdown initiated...
+ly determine the server's fully qualified domain name, using fe80::fd64:f133:c6e8:8149. Set the 'ServerName' directive globally to suppress this message
+[Fri Apr 21 15:44:24.034275 2023] [mpm_winnt:notice] [pid 11164:tid 336] AH00354: Child: Starting 64 worker threads.
+[Fri Apr 21 15:44:25.813052 2023] [include:warn] [pid 11164:tid 1156] [client ::1:56837] AH01374: mod_include: Options +Includes (or IncludesNoExec) wasn't set, INCLUDES filter removed: /index.shtml
+[Fri Apr 21 15:44:27.242070 2023] [include:warn] [pid 11164:tid 1156] [client ::1:56837] AH01374: mod_include: Options +Includes (or IncludesNoExec) wasn't set, INCLUDES filter removed: /index.shtml
+[Fri Apr 21 15:44:28.271497 2023] [include:warn] [pid 11164:tid 1152] [client 186.15.155.150:56838] AH01374: mod_include: Options +Includes (or IncludesNoExec) wasn't set, INCLUDES filter removed: /index.shtml
+[Fri Apr 21 15:44:29.471396 2023] [include:warn] [pid 11164:tid 1156] [client ::1:56837] AH01374: mod_include: Options +Includes (or IncludesNoExec) wasn't set, INCLUDES filter removed: /index.shtml
+[Fri Apr 21 15:44:32.512867 2023] [mpm_winnt:notice] [pid 18096:tid 212] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Apr 21 15:44:36.598466 2023] [mpm_winnt:notice] [pid 11164:tid 336] AH00364: Child: All worker threads have exited.
+[Fri Apr 21 15:44:36.620140 2023] [mpm_winnt:notice] [pid 18096:tid 212] AH00430: Parent: Child process 11164 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::fd64:f133:c6e8:8149. Set the 'ServerName' directive globally to suppress this message
+[Fri Apr 21 15:51:47.853574 2023] [mpm_winnt:notice] [pid 6136:tid 348] AH00455: Apache/2.4.57 (Win64) configured -- resuming normal operations
+[Fri Apr 21 15:51:47.853574 2023] [mpm_winnt:notice] [pid 6136:tid 348] AH00456: Apache Lounge VS17 Server built: Apr 13 2023 09:42:59
+[Fri Apr 21 15:51:47.854580 2023] [core:notice] [pid 6136:tid 348] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Fri Apr 21 15:51:47.856584 2023] [mpm_winnt:notice] [pid 6136:tid 348] AH00418: Parent: Created child process 21508
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::fd64:f133:c6e8:8149. Set the 'ServerName' directive globally to suppress this message
+Apache server shutdown initiated...
+ly determine the server's fully qualified domain name, using fe80::fd64:f133:c6e8:8149. Set the 'ServerName' directive globally to suppress this message
+[Fri Apr 21 15:51:48.063361 2023] [mpm_winnt:notice] [pid 21508:tid 360] AH00354: Child: Starting 64 worker threads.
+[Fri Apr 21 15:51:51.612333 2023] [include:warn] [pid 21508:tid 1156] [client ::1:56884] AH01374: mod_include: Options +Includes (or IncludesNoExec) wasn't set, INCLUDES filter removed: /index.shtml
+[Fri Apr 21 15:51:53.044952 2023] [include:warn] [pid 21508:tid 1156] [client ::1:56884] AH01374: mod_include: Options +Includes (or IncludesNoExec) wasn't set, INCLUDES filter removed: /index.shtml
+[Fri Apr 21 15:56:36.832229 2023] [include:warn] [pid 21508:tid 1156] [client ::1:56910] AH01374: mod_include: Options +Includes (or IncludesNoExec) wasn't set, INCLUDES filter removed: /index.shtml
+[Fri Apr 21 15:56:52.969491 2023] [mpm_winnt:notice] [pid 6136:tid 348] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Apr 21 15:56:54.983832 2023] [mpm_winnt:notice] [pid 21508:tid 360] AH00364: Child: All worker threads have exited.
+[Fri Apr 21 15:56:55.005852 2023] [mpm_winnt:notice] [pid 6136:tid 348] AH00430: Parent: Child process 21508 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::fd64:f133:c6e8:8149. Set the 'ServerName' directive globally to suppress this message
+[Fri Apr 21 15:56:56.986107 2023] [mpm_winnt:notice] [pid 18056:tid 336] AH00455: Apache/2.4.57 (Win64) configured -- resuming normal operations
+[Fri Apr 21 15:56:56.987110 2023] [mpm_winnt:notice] [pid 18056:tid 336] AH00456: Apache Lounge VS17 Server built: Apr 13 2023 09:42:59
+[Fri Apr 21 15:56:56.987110 2023] [core:notice] [pid 18056:tid 336] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Fri Apr 21 15:56:56.990173 2023] [mpm_winnt:notice] [pid 18056:tid 336] AH00418: Parent: Created child process 11884
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::fd64:f133:c6e8:8149. Set the 'ServerName' directive globally to suppress this message
+Apache server shutdown initiated...
+ly determine the server's fully qualified domain name, using fe80::fd64:f133:c6e8:8149. Set the 'ServerName' directive globally to suppress this message
+[Fri Apr 21 15:56:57.196469 2023] [mpm_winnt:notice] [pid 11884:tid 356] AH00354: Child: Starting 64 worker threads.
+[Fri Apr 21 15:57:00.505324 2023] [include:warn] [pid 11884:tid 1152] [client ::1:56915] AH01374: mod_include: Options +Includes (or IncludesNoExec) wasn't set, INCLUDES filter removed: /index.shtml
+[Fri Apr 21 15:57:01.631324 2023] [include:warn] [pid 11884:tid 1152] [client ::1:56915] AH01374: mod_include: Options +Includes (or IncludesNoExec) wasn't set, INCLUDES filter removed: /index.shtml
+[Fri Apr 21 15:57:02.692672 2023] [include:warn] [pid 11884:tid 1144] [client 186.15.155.150:56917] AH01374: mod_include: Options +Includes (or IncludesNoExec) wasn't set, INCLUDES filter removed: /index.shtml
+[Fri Apr 21 15:57:28.906106 2023] [include:warn] [pid 11884:tid 1144] [client ::1:56919] AH01374: mod_include: Options +Includes (or IncludesNoExec) wasn't set, INCLUDES filter removed: /index.shtml
+[Fri Apr 21 15:57:49.011862 2023] [include:warn] [pid 11884:tid 1144] [client 186.15.155.150:56920] AH01374: mod_include: Options +Includes (or IncludesNoExec) wasn't set, INCLUDES filter removed: /index.shtml
+[Fri Apr 21 15:58:47.014388 2023] [mpm_winnt:notice] [pid 18056:tid 336] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Apr 21 15:58:49.031716 2023] [mpm_winnt:notice] [pid 11884:tid 356] AH00364: Child: All worker threads have exited.
+[Fri Apr 21 15:58:49.053066 2023] [mpm_winnt:notice] [pid 18056:tid 336] AH00430: Parent: Child process 11884 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::fd64:f133:c6e8:8149. Set the 'ServerName' directive globally to suppress this message
+[Fri Apr 21 15:58:53.754517 2023] [mpm_winnt:notice] [pid 19524:tid 336] AH00455: Apache/2.4.57 (Win64) configured -- resuming normal operations
+[Fri Apr 21 15:58:53.754517 2023] [mpm_winnt:notice] [pid 19524:tid 336] AH00456: Apache Lounge VS17 Server built: Apr 13 2023 09:42:59
+[Fri Apr 21 15:58:53.754517 2023] [core:notice] [pid 19524:tid 336] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Fri Apr 21 15:58:53.757524 2023] [mpm_winnt:notice] [pid 19524:tid 336] AH00418: Parent: Created child process 10428
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::fd64:f133:c6e8:8149. Set the 'ServerName' directive globally to suppress this message
+Apache server shutdown initiated...
+ly determine the server's fully qualified domain name, using fe80::fd64:f133:c6e8:8149. Set the 'ServerName' directive globally to suppress this message
+[Fri Apr 21 15:58:53.971324 2023] [mpm_winnt:notice] [pid 10428:tid 352] AH00354: Child: Starting 64 worker threads.
+[Fri Apr 21 15:58:56.492842 2023] [include:warn] [pid 10428:tid 1152] [client ::1:56925] AH01374: mod_include: Options +Includes (or IncludesNoExec) wasn't set, INCLUDES filter removed: /index.html
+[Fri Apr 21 16:01:06.123909 2023] [mpm_winnt:notice] [pid 19524:tid 336] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Apr 21 16:01:08.133657 2023] [mpm_winnt:notice] [pid 10428:tid 352] AH00364: Child: All worker threads have exited.
+[Fri Apr 21 16:01:08.155242 2023] [mpm_winnt:notice] [pid 19524:tid 336] AH00430: Parent: Child process 10428 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::fd64:f133:c6e8:8149. Set the 'ServerName' directive globally to suppress this message
+[Fri Apr 21 16:06:24.010811 2023] [mpm_winnt:notice] [pid 12368:tid 344] AH00455: Apache/2.4.57 (Win64) configured -- resuming normal operations
+[Fri Apr 21 16:06:24.011815 2023] [mpm_winnt:notice] [pid 12368:tid 344] AH00456: Apache Lounge VS17 Server built: Apr 13 2023 09:42:59
+[Fri Apr 21 16:06:24.011815 2023] [core:notice] [pid 12368:tid 344] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Fri Apr 21 16:06:24.013824 2023] [mpm_winnt:notice] [pid 12368:tid 344] AH00418: Parent: Created child process 2560
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::fd64:f133:c6e8:8149. Set the 'ServerName' directive globally to suppress this message
+Apache server shutdown initiated...
+ly determine the server's fully qualified domain name, using fe80::fd64:f133:c6e8:8149. Set the 'ServerName' directive globally to suppress this message
+[Fri Apr 21 16:06:24.219316 2023] [mpm_winnt:notice] [pid 2560:tid 328] AH00354: Child: Starting 64 worker threads.
+[Fri Apr 21 16:06:33.432325 2023] [include:warn] [pid 2560:tid 1152] [client ::1:56962] AH01374: mod_include: Options +Includes (or IncludesNoExec) wasn't set, INCLUDES filter removed: /index.shtml
+[Fri Apr 21 16:06:41.402715 2023] [mpm_winnt:notice] [pid 12368:tid 344] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Apr 21 16:06:43.419490 2023] [mpm_winnt:notice] [pid 2560:tid 328] AH00364: Child: All worker threads have exited.
+[Fri Apr 21 16:06:43.441368 2023] [mpm_winnt:notice] [pid 12368:tid 344] AH00430: Parent: Child process 2560 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::fd64:f133:c6e8:8149. Set the 'ServerName' directive globally to suppress this message
+[Fri Apr 21 16:07:04.200155 2023] [mpm_winnt:notice] [pid 9920:tid 376] AH00455: Apache/2.4.57 (Win64) configured -- resuming normal operations
+[Fri Apr 21 16:07:04.200155 2023] [mpm_winnt:notice] [pid 9920:tid 376] AH00456: Apache Lounge VS17 Server built: Apr 13 2023 09:42:59
+[Fri Apr 21 16:07:04.200155 2023] [core:notice] [pid 9920:tid 376] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Fri Apr 21 16:07:04.203175 2023] [mpm_winnt:notice] [pid 9920:tid 376] AH00418: Parent: Created child process 14184
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::fd64:f133:c6e8:8149. Set the 'ServerName' directive globally to suppress this message
+Apache server shutdown initiated...
+ly determine the server's fully qualified domain name, using fe80::fd64:f133:c6e8:8149. Set the 'ServerName' directive globally to suppress this message
+[Fri Apr 21 16:07:04.412215 2023] [mpm_winnt:notice] [pid 14184:tid 328] AH00354: Child: Starting 64 worker threads.
+[Fri Apr 21 16:07:05.960109 2023] [include:warn] [pid 14184:tid 1156] [client ::1:56966] AH01374: mod_include: Options +Includes (or IncludesNoExec) wasn't set, INCLUDES filter removed: /index.shtml
+[Fri Apr 21 16:07:07.168037 2023] [include:warn] [pid 14184:tid 1156] [client ::1:56966] AH01374: mod_include: Options +Includes (or IncludesNoExec) wasn't set, INCLUDES filter removed: /index.shtml
+[Fri Apr 21 16:08:23.052836 2023] [mpm_winnt:notice] [pid 9920:tid 376] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Apr 21 16:08:25.072862 2023] [mpm_winnt:notice] [pid 14184:tid 328] AH00364: Child: All worker threads have exited.
+[Fri Apr 21 16:08:25.095168 2023] [mpm_winnt:notice] [pid 9920:tid 376] AH00430: Parent: Child process 14184 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::fd64:f133:c6e8:8149. Set the 'ServerName' directive globally to suppress this message
+[Fri Apr 21 16:08:28.513417 2023] [mpm_winnt:notice] [pid 16780:tid 356] AH00455: Apache/2.4.57 (Win64) configured -- resuming normal operations
+[Fri Apr 21 16:08:28.513417 2023] [mpm_winnt:notice] [pid 16780:tid 356] AH00456: Apache Lounge VS17 Server built: Apr 13 2023 09:42:59
+[Fri Apr 21 16:08:28.513417 2023] [core:notice] [pid 16780:tid 356] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Fri Apr 21 16:08:28.516417 2023] [mpm_winnt:notice] [pid 16780:tid 356] AH00418: Parent: Created child process 2896
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::fd64:f133:c6e8:8149. Set the 'ServerName' directive globally to suppress this message
+Apache server shutdown initiated...
+ly determine the server's fully qualified domain name, using fe80::fd64:f133:c6e8:8149. Set the 'ServerName' directive globally to suppress this message
+[Fri Apr 21 16:08:28.721572 2023] [mpm_winnt:notice] [pid 2896:tid 352] AH00354: Child: Starting 64 worker threads.
+[Fri Apr 21 16:10:36.833343 2023] [mpm_winnt:notice] [pid 16780:tid 356] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Apr 21 16:10:38.846481 2023] [mpm_winnt:notice] [pid 2896:tid 352] AH00364: Child: All worker threads have exited.
+[Fri Apr 21 16:10:38.868495 2023] [mpm_winnt:notice] [pid 16780:tid 356] AH00430: Parent: Child process 2896 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::fd64:f133:c6e8:8149. Set the 'ServerName' directive globally to suppress this message
+[Fri Apr 21 16:25:05.581622 2023] [mpm_winnt:notice] [pid 4920:tid 340] AH00455: Apache/2.4.57 (Win64) configured -- resuming normal operations
+[Fri Apr 21 16:25:05.581622 2023] [mpm_winnt:notice] [pid 4920:tid 340] AH00456: Apache Lounge VS17 Server built: Apr 13 2023 09:42:59
+[Fri Apr 21 16:25:05.581622 2023] [core:notice] [pid 4920:tid 340] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Fri Apr 21 16:25:05.584624 2023] [mpm_winnt:notice] [pid 4920:tid 340] AH00418: Parent: Created child process 6264
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::fd64:f133:c6e8:8149. Set the 'ServerName' directive globally to suppress this message
+Apache server shutdown initiated...
+ly determine the server's fully qualified domain name, using fe80::fd64:f133:c6e8:8149. Set the 'ServerName' directive globally to suppress this message
+[Fri Apr 21 16:25:05.790423 2023] [mpm_winnt:notice] [pid 6264:tid 332] AH00354: Child: Starting 64 worker threads.
+[Fri Apr 21 16:25:07.346187 2023] [include:warn] [pid 6264:tid 1152] [client ::1:57037] AH01374: mod_include: Options +Includes (or IncludesNoExec) wasn't set, INCLUDES filter removed: /index.shtml
+[Fri Apr 21 16:25:08.717807 2023] [include:warn] [pid 6264:tid 1152] [client ::1:57037] AH01374: mod_include: Options +Includes (or IncludesNoExec) wasn't set, INCLUDES filter removed: /index.shtml
+[Fri Apr 21 16:25:09.722196 2023] [include:warn] [pid 6264:tid 1144] [client 186.15.155.150:57038] AH01374: mod_include: Options +Includes (or IncludesNoExec) wasn't set, INCLUDES filter removed: /index.shtml
+[Fri Apr 21 16:25:21.471069 2023] [include:warn] [pid 6264:tid 1144] [client ::1:57039] AH01374: mod_include: Options +Includes (or IncludesNoExec) wasn't set, INCLUDES filter removed: /index.shtml
+[Fri Apr 21 16:27:08.394394 2023] [mpm_winnt:notice] [pid 4920:tid 340] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Apr 21 16:27:10.406982 2023] [mpm_winnt:notice] [pid 6264:tid 332] AH00364: Child: All worker threads have exited.
+[Fri Apr 21 16:27:10.428455 2023] [mpm_winnt:notice] [pid 4920:tid 340] AH00430: Parent: Child process 6264 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::fd64:f133:c6e8:8149. Set the 'ServerName' directive globally to suppress this message
+[Fri Apr 21 16:27:11.596649 2023] [mpm_winnt:notice] [pid 17176:tid 360] AH00455: Apache/2.4.57 (Win64) configured -- resuming normal operations
+[Fri Apr 21 16:27:11.597651 2023] [mpm_winnt:notice] [pid 17176:tid 360] AH00456: Apache Lounge VS17 Server built: Apr 13 2023 09:42:59
+[Fri Apr 21 16:27:11.597651 2023] [core:notice] [pid 17176:tid 360] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Fri Apr 21 16:27:11.600683 2023] [mpm_winnt:notice] [pid 17176:tid 360] AH00418: Parent: Created child process 11572
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::fd64:f133:c6e8:8149. Set the 'ServerName' directive globally to suppress this message
+Apache server shutdown initiated...
+ly determine the server's fully qualified domain name, using fe80::fd64:f133:c6e8:8149. Set the 'ServerName' directive globally to suppress this message
+[Fri Apr 21 16:27:11.806596 2023] [mpm_winnt:notice] [pid 11572:tid 344] AH00354: Child: Starting 64 worker threads.
+[Fri Apr 21 16:27:16.196723 2023] [include:warn] [pid 11572:tid 1156] [client ::1:57045] AH01374: mod_include: Options +Includes (or IncludesNoExec) wasn't set, INCLUDES filter removed: /index.shtml
+[Fri Apr 21 16:27:18.445721 2023] [include:warn] [pid 11572:tid 1144] [client 186.15.155.150:57046] AH01374: mod_include: Options +Includes (or IncludesNoExec) wasn't set, INCLUDES filter removed: /index.shtml
+[Fri Apr 21 16:27:39.395232 2023] [mpm_winnt:notice] [pid 17176:tid 360] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Apr 21 16:27:41.418259 2023] [mpm_winnt:notice] [pid 11572:tid 344] AH00364: Child: All worker threads have exited.
+[Fri Apr 21 16:27:41.439617 2023] [mpm_winnt:notice] [pid 17176:tid 360] AH00430: Parent: Child process 11572 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::fd64:f133:c6e8:8149. Set the 'ServerName' directive globally to suppress this message
+[Fri Apr 21 16:27:47.951542 2023] [mpm_winnt:notice] [pid 11124:tid 364] AH00455: Apache/2.4.57 (Win64) configured -- resuming normal operations
+[Fri Apr 21 16:27:47.951542 2023] [mpm_winnt:notice] [pid 11124:tid 364] AH00456: Apache Lounge VS17 Server built: Apr 13 2023 09:42:59
+[Fri Apr 21 16:27:47.951542 2023] [core:notice] [pid 11124:tid 364] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Fri Apr 21 16:27:47.954555 2023] [mpm_winnt:notice] [pid 11124:tid 364] AH00418: Parent: Created child process 23548
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::fd64:f133:c6e8:8149. Set the 'ServerName' directive globally to suppress this message
+Apache server shutdown initiated...
+ly determine the server's fully qualified domain name, using fe80::fd64:f133:c6e8:8149. Set the 'ServerName' directive globally to suppress this message
+[Fri Apr 21 16:27:48.166189 2023] [mpm_winnt:notice] [pid 23548:tid 392] AH00354: Child: Starting 64 worker threads.
+[Fri Apr 21 16:27:50.267508 2023] [include:warn] [pid 23548:tid 1152] [client ::1:57051] AH01374: mod_include: Options +Includes (or IncludesNoExec) wasn't set, INCLUDES filter removed: /index.shtml
+[Fri Apr 21 16:27:51.904504 2023] [include:warn] [pid 23548:tid 1148] [client 186.15.155.150:57052] AH01374: mod_include: Options +Includes (or IncludesNoExec) wasn't set, INCLUDES filter removed: /index.shtml
+[Fri Apr 21 16:27:52.907045 2023] [include:warn] [pid 23548:tid 1152] [client ::1:57051] AH01374: mod_include: Options +Includes (or IncludesNoExec) wasn't set, INCLUDES filter removed: /index.shtml
+[Fri Apr 21 16:29:20.697876 2023] [mpm_winnt:notice] [pid 11124:tid 364] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Apr 21 16:29:22.708974 2023] [mpm_winnt:notice] [pid 23548:tid 392] AH00364: Child: All worker threads have exited.
+[Fri Apr 21 16:29:22.730240 2023] [mpm_winnt:notice] [pid 11124:tid 364] AH00430: Parent: Child process 23548 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::fd64:f133:c6e8:8149. Set the 'ServerName' directive globally to suppress this message
+[Fri Apr 21 16:29:37.477338 2023] [mpm_winnt:notice] [pid 20572:tid 348] AH00455: Apache/2.4.57 (Win64) configured -- resuming normal operations
+[Fri Apr 21 16:29:37.477338 2023] [mpm_winnt:notice] [pid 20572:tid 348] AH00456: Apache Lounge VS17 Server built: Apr 13 2023 09:42:59
+[Fri Apr 21 16:29:37.477338 2023] [core:notice] [pid 20572:tid 348] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Fri Apr 21 16:29:37.480338 2023] [mpm_winnt:notice] [pid 20572:tid 348] AH00418: Parent: Created child process 16700
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::fd64:f133:c6e8:8149. Set the 'ServerName' directive globally to suppress this message
+Apache server shutdown initiated...
+ly determine the server's fully qualified domain name, using fe80::fd64:f133:c6e8:8149. Set the 'ServerName' directive globally to suppress this message
+[Fri Apr 21 16:29:37.689392 2023] [mpm_winnt:notice] [pid 16700:tid 328] AH00354: Child: Starting 64 worker threads.
+[Fri Apr 21 16:29:43.269164 2023] [include:warn] [pid 16700:tid 1152] [client ::1:57056] AH01374: mod_include: Options +Includes (or IncludesNoExec) wasn't set, INCLUDES filter removed: /index.shtml
+[Fri Apr 21 16:29:44.754617 2023] [include:warn] [pid 16700:tid 1144] [client 186.15.155.150:57057] AH01374: mod_include: Options +Includes (or IncludesNoExec) wasn't set, INCLUDES filter removed: /index.shtml
+[Fri Apr 21 16:29:45.752726 2023] [include:warn] [pid 16700:tid 1152] [client ::1:57056] AH01374: mod_include: Options +Includes (or IncludesNoExec) wasn't set, INCLUDES filter removed: /index.shtml
+[Fri Apr 21 16:30:14.865101 2023] [include:warn] [pid 16700:tid 1152] [client ::1:57060] AH01374: mod_include: Options +Includes (or IncludesNoExec) wasn't set, INCLUDES filter removed: /index.shtml
+[Fri Apr 21 16:30:20.359607 2023] [include:warn] [pid 16700:tid 1152] [client 186.15.155.150:57061] AH01374: mod_include: Options +Includes (or IncludesNoExec) wasn't set, INCLUDES filter removed: /index.shtml
+[Fri Apr 21 16:41:48.362370 2023] [mpm_winnt:notice] [pid 20572:tid 348] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Apr 21 16:41:50.370917 2023] [mpm_winnt:notice] [pid 16700:tid 328] AH00364: Child: All worker threads have exited.
+[Fri Apr 21 16:41:50.392814 2023] [mpm_winnt:notice] [pid 20572:tid 348] AH00430: Parent: Child process 16700 exited successfully.
+[Fri Apr 21 16:41:58.463437 2023] [mpm_winnt:notice] [pid 1872:tid 372] AH00455: Apache/2.4.57 (Win64) configured -- resuming normal operations
+[Fri Apr 21 16:41:58.464475 2023] [mpm_winnt:notice] [pid 1872:tid 372] AH00456: Apache Lounge VS17 Server built: Apr 13 2023 09:42:59
+[Fri Apr 21 16:41:58.464475 2023] [core:notice] [pid 1872:tid 372] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Fri Apr 21 16:41:58.466480 2023] [mpm_winnt:notice] [pid 1872:tid 372] AH00418: Parent: Created child process 21652
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 21652:tid 336] AH00354: Child: Starting 64 worker threads.
+[Fri Apr 21 16:43:43.214228 2023] [mpm_winnt:notice] [pid 1872:tid 372] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Apr 21 16:43:45.234242 2023] [mpm_winnt:notice] [pid 21652:tid 336] AH00364: Child: All worker threads have exited.
+[Fri Apr 21 16:43:45.255614 2023] [mpm_winnt:notice] [pid 1872:tid 372] AH00430: Parent: Child process 21652 exited successfully.
+[Fri Apr 21 16:44:20.565497 2023] [mpm_winnt:notice] [pid 23192:tid 344] AH00455: Apache/2.4.57 (Win64) configured -- resuming normal operations
+[Fri Apr 21 16:44:20.566497 2023] [mpm_winnt:notice] [pid 23192:tid 344] AH00456: Apache Lounge VS17 Server built: Apr 13 2023 09:42:59
+[Fri Apr 21 16:44:20.566497 2023] [core:notice] [pid 23192:tid 344] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Fri Apr 21 16:44:20.568498 2023] [mpm_winnt:notice] [pid 23192:tid 344] AH00418: Parent: Created child process 13120
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 13120:tid 364] AH00354: Child: Starting 64 worker threads.
+[Fri Apr 21 16:44:23.620085 2023] [include:error] [pid 13120:tid 940] [client ::1:57109] unable to include "./shtml/header.shtml" in parsed file C:/Apache24/htdocs/shtml/index.shtml, subrequest returned 404
+[Fri Apr 21 16:44:25.429859 2023] [include:error] [pid 13120:tid 940] [client ::1:57109] unable to include "./shtml/header.shtml" in parsed file C:/Apache24/htdocs/shtml/index.shtml, subrequest returned 404
+[Fri Apr 21 16:44:28.170981 2023] [include:error] [pid 13120:tid 936] [client 186.15.155.150:57110] unable to include "./shtml/header.shtml" in parsed file C:/Apache24/htdocs/shtml/index.shtml, subrequest returned 404
+[Fri Apr 21 16:50:22.261633 2023] [include:error] [pid 13120:tid 936] [client ::1:57158] unable to include "components/header.shtml" in parsed file C:/Apache24/htdocs/shtml/pages/index.shtml, subrequest returned 404
+[Fri Apr 21 16:50:49.330792 2023] [include:error] [pid 13120:tid 936] (20023)The given path was above the root path: [client ::1:57161] unable to include file "../components/header.shtml" in parsed file C:/Apache24/htdocs/shtml/pages/index.shtml
+[Fri Apr 21 18:28:58.361248 2023] [mpm_winnt:notice] [pid 23192:tid 344] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Apr 21 18:29:00.382860 2023] [mpm_winnt:notice] [pid 13120:tid 364] AH00364: Child: All worker threads have exited.
+[Fri Apr 21 18:29:00.403655 2023] [mpm_winnt:notice] [pid 23192:tid 344] AH00430: Parent: Child process 13120 exited successfully.
+[Fri Apr 21 18:53:57.957160 2023] [mpm_winnt:notice] [pid 11308:tid 332] AH00455: Apache/2.4.57 (Win64) configured -- resuming normal operations
+[Fri Apr 21 18:53:57.957160 2023] [mpm_winnt:notice] [pid 11308:tid 332] AH00456: Apache Lounge VS17 Server built: Apr 13 2023 09:42:59
+[Fri Apr 21 18:53:57.957160 2023] [core:notice] [pid 11308:tid 332] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Fri Apr 21 18:53:57.960161 2023] [mpm_winnt:notice] [pid 11308:tid 332] AH00418: Parent: Created child process 10012
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 10012:tid 368] AH00354: Child: Starting 64 worker threads.
+[Fri Apr 21 19:14:12.902536 2023] [mpm_winnt:notice] [pid 11308:tid 332] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Apr 21 19:14:14.912660 2023] [mpm_winnt:notice] [pid 10012:tid 368] AH00364: Child: All worker threads have exited.
+[Fri Apr 21 19:14:14.934262 2023] [mpm_winnt:notice] [pid 11308:tid 332] AH00430: Parent: Child process 10012 exited successfully.
+[Fri Apr 21 19:14:16.233638 2023] [mpm_winnt:notice] [pid 7408:tid 332] AH00455: Apache/2.4.57 (Win64) configured -- resuming normal operations
+[Fri Apr 21 19:14:16.234641 2023] [mpm_winnt:notice] [pid 7408:tid 332] AH00456: Apache Lounge VS17 Server built: Apr 13 2023 09:42:59
+[Fri Apr 21 19:14:16.234641 2023] [core:notice] [pid 7408:tid 332] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Fri Apr 21 19:14:16.236644 2023] [mpm_winnt:notice] [pid 7408:tid 332] AH00418: Parent: Created child process 10400
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 10400:tid 348] AH00354: Child: Starting 64 worker threads.
+[Fri Apr 21 22:23:50.818455 2023] [mpm_winnt:notice] [pid 7408:tid 332] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Apr 21 22:23:52.823638 2023] [mpm_winnt:notice] [pid 10400:tid 348] AH00364: Child: All worker threads have exited.
+[Fri Apr 21 22:23:52.845613 2023] [mpm_winnt:notice] [pid 7408:tid 332] AH00430: Parent: Child process 10400 exited successfully.
+[Sat Apr 22 19:34:40.440002 2023] [mpm_winnt:notice] [pid 19940:tid 340] AH00455: Apache/2.4.57 (Win64) configured -- resuming normal operations
+[Sat Apr 22 19:34:40.441011 2023] [mpm_winnt:notice] [pid 19940:tid 340] AH00456: Apache Lounge VS17 Server built: Apr 13 2023 09:42:59
+[Sat Apr 22 19:34:40.441011 2023] [core:notice] [pid 19940:tid 340] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sat Apr 22 19:34:40.444067 2023] [mpm_winnt:notice] [pid 19940:tid 340] AH00418: Parent: Created child process 11464
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 11464:tid 328] AH00354: Child: Starting 64 worker threads.
+[Sat Apr 22 20:31:38.361882 2023] [mpm_winnt:notice] [pid 19940:tid 340] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Apr 22 20:31:40.382902 2023] [mpm_winnt:notice] [pid 11464:tid 328] AH00364: Child: All worker threads have exited.
+[Sat Apr 22 20:31:40.404926 2023] [mpm_winnt:notice] [pid 19940:tid 340] AH00430: Parent: Child process 11464 exited successfully.
+[Sat Apr 22 20:32:09.750997 2023] [mpm_winnt:notice] [pid 16732:tid 348] AH00455: Apache/2.4.57 (Win64) configured -- resuming normal operations
+[Sat Apr 22 20:32:09.750997 2023] [mpm_winnt:notice] [pid 16732:tid 348] AH00456: Apache Lounge VS17 Server built: Apr 13 2023 09:42:59
+[Sat Apr 22 20:32:09.750997 2023] [core:notice] [pid 16732:tid 348] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sat Apr 22 20:32:09.755021 2023] [mpm_winnt:notice] [pid 16732:tid 348] AH00418: Parent: Created child process 20036
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 20036:tid 328] AH00354: Child: Starting 64 worker threads.
+[Sat Apr 22 22:53:40.077406 2023] [mpm_winnt:notice] [pid 16732:tid 348] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Apr 22 22:53:42.097547 2023] [mpm_winnt:notice] [pid 20036:tid 328] AH00364: Child: All worker threads have exited.
+[Sat Apr 22 22:53:42.118924 2023] [mpm_winnt:notice] [pid 16732:tid 348] AH00430: Parent: Child process 20036 exited successfully.
+[Sat Apr 22 22:53:46.604035 2023] [mpm_winnt:notice] [pid 10772:tid 332] AH00455: Apache/2.4.57 (Win64) configured -- resuming normal operations
+[Sat Apr 22 22:53:46.605035 2023] [mpm_winnt:notice] [pid 10772:tid 332] AH00456: Apache Lounge VS17 Server built: Apr 13 2023 09:42:59
+[Sat Apr 22 22:53:46.605035 2023] [core:notice] [pid 10772:tid 332] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sat Apr 22 22:53:46.608035 2023] [mpm_winnt:notice] [pid 10772:tid 332] AH00418: Parent: Created child process 23484
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 23484:tid 328] AH00354: Child: Starting 64 worker threads.
+[Sun Apr 23 00:10:54.167542 2023] [mpm_winnt:notice] [pid 10772:tid 332] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Apr 23 00:10:56.196250 2023] [mpm_winnt:notice] [pid 23484:tid 328] AH00364: Child: All worker threads have exited.
+[Sun Apr 23 00:10:56.219254 2023] [mpm_winnt:notice] [pid 10772:tid 332] AH00430: Parent: Child process 23484 exited successfully.
+[Sun Apr 23 01:42:31.395404 2023] [mpm_winnt:notice] [pid 22252:tid 368] AH00455: Apache/2.4.57 (Win64) configured -- resuming normal operations
+[Sun Apr 23 01:42:31.395404 2023] [mpm_winnt:notice] [pid 22252:tid 368] AH00456: Apache Lounge VS17 Server built: Apr 13 2023 09:42:59
+[Sun Apr 23 01:42:31.395404 2023] [core:notice] [pid 22252:tid 368] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sun Apr 23 01:42:31.398417 2023] [mpm_winnt:notice] [pid 22252:tid 368] AH00418: Parent: Created child process 17688
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 17688:tid 336] AH00354: Child: Starting 64 worker threads.
+[Sun Apr 23 01:45:01.229744 2023] [mpm_winnt:notice] [pid 22252:tid 368] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Apr 23 01:45:03.241651 2023] [mpm_winnt:notice] [pid 17688:tid 336] AH00364: Child: All worker threads have exited.
+[Sun Apr 23 01:45:03.264012 2023] [mpm_winnt:notice] [pid 22252:tid 368] AH00430: Parent: Child process 17688 exited successfully.
+[Sun Apr 23 10:22:07.783445 2023] [mpm_winnt:notice] [pid 15036:tid 380] AH00455: Apache/2.4.57 (Win64) configured -- resuming normal operations
+[Sun Apr 23 10:22:07.784452 2023] [mpm_winnt:notice] [pid 15036:tid 380] AH00456: Apache Lounge VS17 Server built: Apr 13 2023 09:42:59
+[Sun Apr 23 10:22:07.784452 2023] [core:notice] [pid 15036:tid 380] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sun Apr 23 10:22:07.787459 2023] [mpm_winnt:notice] [pid 15036:tid 380] AH00418: Parent: Created child process 9896
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 9896:tid 340] AH00354: Child: Starting 64 worker threads.
+[Sun Apr 23 18:18:01.413027 2023] [include:error] [pid 9896:tid 932] [client ::1:57466] unable to include "header.shtml" in parsed file C:/Apache24/htdocs/index.shtml, subrequest returned 404
+[Sun Apr 23 18:18:01.413027 2023] [include:error] [pid 9896:tid 932] [client ::1:57466] unable to include "footer.shtml" in parsed file C:/Apache24/htdocs/index.shtml, subrequest returned 404
+[Sun Apr 23 19:25:58.705466 2023] [core:error] [pid 9896:tid 932] [client 152.89.196.211:54452] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Sun Apr 23 19:27:52.315674 2023] [mpm_winnt:notice] [pid 15036:tid 380] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Apr 23 19:27:54.340719 2023] [mpm_winnt:notice] [pid 9896:tid 340] AH00364: Child: All worker threads have exited.
+[Sun Apr 23 19:27:54.362779 2023] [mpm_winnt:notice] [pid 15036:tid 380] AH00430: Parent: Child process 9896 exited successfully.

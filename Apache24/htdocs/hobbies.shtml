@@ -1,0 +1,53 @@
+<!--#set var="titulo" value="Pasatiempos" -->
+<!--#include virtual="header.shtml" -->
+
+<div class="full-width-container">
+  <h3>Pasatiempos</h3>
+</div>
+
+<div class="main-container">
+  <div class="adaptative-container">
+    <p>Mi principal pasatiempo es jugar videojuegos:</p>
+    <img
+      src="images/Videojuegos.jpg"
+      alt="Foto de mis videojuegos"
+      class="bordered-image"
+    />
+  </div>
+
+  <div class="adaptative-container">
+    <p>
+      Además de videojuegos, también disfruto un poco dibujar, algo que me quedó
+      del curso artístico que llevé en la universidad,
+      <b>EG0321 - Taller de Caricatura</b>, donde en realidad no solo enseñaban
+      a hacer caricaturas, sino a prácticar dibujo en general, por ejemplo:
+    </p>
+    <img
+      src="images/Dibujo-original.jpg"
+      alt="Foto de dibujo en estado original"
+      class="bordered-image"
+      width="500"
+    />
+  </div>
+
+  <div class="adaptative-container">
+    <p>
+      También encuentro interesante aprender a utilizar distintas herramientas
+      tecnológicas con fines puramente recreacionales, entre mis favoritas puedo
+      mencionar una que descubrí durante el
+      <b>CI-0129 - Inteligencia Artificial</b> llamada
+      <a href="https://petalica.com/index_en.html"><b>Petalica Paint</b></a>
+      (click en nombre para acceder), un software gratuito que hace uso de
+      inteligencia artificial para colorear dibujos, combinando esto con mi
+      gusto por dibujar es posible obtener resultados como este:
+    </p>
+    <img
+      src="images/Dibujo-coloreado.jpg"
+      alt="Foto de dibujo coloreado"
+      class="bordered-image"
+      width="500"
+    />
+  </div>
+</div>
+
+<!--#include virtual="footer.shtml" -->

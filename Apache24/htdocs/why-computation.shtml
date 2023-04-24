@@ -1,0 +1,43 @@
+<!--#set var="titulo" value="Por qué computación" -->
+<!--#include virtual="header.shtml" -->
+
+<div class="full-width-container">
+  <h3>Por qué computación</h3>
+</div>
+
+<div class="main-container">
+  <div class="adaptative-container">
+    <p>
+      Desde que era niño siempre me interesaron las computadoras y tecnología en
+      general, mis padres le compraron una computadora a mi hermana mayor cuando
+      inició el colegio, en ese tiempo yo tenía 5 años, y mientras mi hermana no
+      la utilizaba, yo solía "jugar" con esa computadora, simplemente me
+      fascinaba lo que podía hacer con ella, por ejemplo utilizaba
+      <b>Paint</b> para editar imágenes de mis personajes favoritos, y
+      <b>Powerpoint</b> para crear animaciones simples para ver dichas imágenes
+      en movimiento y con efectos de sonido, similar a como un niño juega con
+      muñecos, yo lo hacía de manera virtual.
+    </p>
+    <p>
+      De este modo seguí utilizando computadoras, y eventualmente entré a la
+      especialidad de <b>Desarrollo de Software</b> en el colegio, donde aprendí
+      programación básica, y más adelante, decidí continuar esos estudios en la
+      universidad.
+    </p>
+  </div>
+
+  <div class="adaptative-container">
+    <p>
+      Después de aproximadamente 10 años la computadora de mi hermana dejo de
+      funcionar, sin embargo, a manera de recuerdo, conservé su procesador
+      (aunque no el original, pues este ya había sido reemplazado una vez).
+    </p>
+    <img
+      src="images/Procesador.jpg"
+      alt="Foto de procesador"
+      class="bordered-image"
+    />
+  </div>
+</div>
+
+<!--#include virtual="footer.shtml" -->
