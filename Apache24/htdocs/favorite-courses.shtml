@@ -2,7 +2,7 @@
 <!--#include virtual="header.shtml" -->
 
 <div class="full-width-container">
-  <h3>Cursos preferidos</h3>
+  <h3><!--#echo var="titulo"--></h3>
 </div>
 
 <div class="main-container">
