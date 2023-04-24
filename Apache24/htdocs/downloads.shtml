@@ -13,7 +13,7 @@
       mencionados en las otras páginas del sitio:
     </p>
     <p>
-      Sumas de Golbach:<br />
+      <b>Sumas de Golbach:</b><br />
       Enlace para visualización de repositorio (bajo el nombre "Project01"):<br />
       <a
         href="https://git.ucr.ac.cr/los-concurrentes/concurrente21a-andres-javier-gabriel/-/tree/master/"
@@ -25,13 +25,32 @@
       >
     </p>
     <p>
-      Pago de Planilla Ta'Bueno:<br />
+      <b>Pago de Planilla Ta'Bueno:</b><br />
       Enlace para visualización de repositorio:<br />
       <a href="https://github.com/Gabrielz6797/pi_ingeBases"
         >https://github.com/Gabrielz6797/pi_ingeBases</a
       ><br />
       Enlace para clonar el repositorio:<br />
       <i>https://github.com/Gabrielz6797/pi_ingeBases.git</i>
+    </p>
+  </div>
+
+  <div class="adaptative-container">
+    <p>
+      Adicionalmente a continuación se encuentra un repositorio que contiene
+      un servidor apache y los archivos utilizados en este sitio:
+    </p>
+    <p>
+      <b>Sitio personal:</b><br />
+      Enlace para visualización de repositorio:<br />
+      <a
+        href="https://github.com/Gabrielz6797/Personal-site"
+        >https://github.com/Gabrielz6797/Personal-site</a
+      ><br />
+      Enlace para clonar el repositorio:<br />
+      <i
+        >https://github.com/Gabrielz6797/Personal-site.git</i
+      >
     </p>
   </div>
 
